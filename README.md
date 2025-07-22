@@ -26,7 +26,7 @@ Virtual Travel Gallery is a Flask-based web app that displays travel destination
 
 ## 🌐 Links
 
-GitHub: (Insert link here if using)
+GitHub: https://github.com/kassandrabeas5/205finalproject.git
 
 Trello Board: (Insert Trello link here)
 
