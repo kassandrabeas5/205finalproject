@@ -34,7 +34,8 @@ Trello Board: https://trello.com/invite/b/688035599d4cedb426748338/ATTIadee69fb5
 
 ## 🤝 Team Contribution
 
-Kassandra Beas: Completed the full project independently (front-end layout, metadata creation, filtering, dynamic routing, embedded maps, styling, and documentation).
+Kassandra Beas: 
+Victor Perez:
 
 --
 
